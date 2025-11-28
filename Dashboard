@@ -1,0 +1,7 @@
+/index.html      ← homepage + brief intro, navigation  
+/about.html      ← who you are, what the site is for  
+/market.html     ← trade journal / notes / saved charts  
+/tools.html      ← JS-based tools you build (or embed widgets)  
+/assets/         ← CSS, JS, images folder  
+/style.css       ← basic styling  
+/script.js       ← logic / chart fetching / overlays  
